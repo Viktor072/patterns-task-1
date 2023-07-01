@@ -1,2 +1,2 @@
 # Домашнее задание к занятию «2.3. Patterns», задача 2
-# Project sample 
+# Project sample [![Build status](https://ci.appveyor.com/api/projects/status/5clo5o1d3xndrpf3/branch/master?svg=true)](https://ci.appveyor.com/project/Viktor072/patterns-task-1/branch/master)
